@@ -24,7 +24,7 @@ Isto é apenas um projeto de estudo que desenvolvi para explorar e aprender o us
 
 ## 📷 Screenshots
 
-![](images/Screenshots.png)
+![](images/screenshot.png)
 
 ## 🤝 Contribuição
 
