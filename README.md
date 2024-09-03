@@ -1,31 +1,30 @@
-Isto é apenas um projeto de estudo que desenvolvi para explorar e aprender o uso do `ViewModel` com `Jetpack Compose`. Este aplicativo serve como um exemplo prático de como gerenciar o estado de UI e lidar com ciclo de vida de componentes no ambiente moderno do Android.
+This is just a study project I developed to explore and learn how to use `ViewModel` with `Jetpack Compose`. This app serves as a practical example of how to manage UI state and handle component lifecycle in the modern Android environment.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **Kotlin**: Linguagem principal de desenvolvimento.
-- **Jetpack Compose**: Framework de UI declarativo do Android.
-- **ViewModel**: Componente do Android Jetpack para gerenciamento de estado.
-- **StateFlow**: Ferramentas para gerenciamento de dados reativos.
+- **Kotlin**: Main development language.
+- **Jetpack Compose**: Declarative UI framework for Android.
+- **ViewModel**: Android Jetpack component for state management.
+- **StateFlow**: Tool for managing reactive data.
 
-## 🔧 Como Executar
+## 🔧 How to Run
 
-1. Clone o repositório:
+1. Clone the repository:
     ```bash
-    git clone https://github.com/seu-usuario/MyViewModelComposeApp.git
+    git clone https://github.com/HarukaYamamoto0/app-with-viewmodel.git
     ```
-2. Abra o projeto no Android Studio.
-3. Construa e execute o aplicativo em um emulador ou dispositivo físico.
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or physical device.
 
-## 📚 O que Aprendi
+## 📚 What I Learned
 
-- Como utilizar `ViewModel` para separar a lógica de negócios da lógica de UI.
-- A importância de gerenciar corretamente o ciclo de vida de componentes usando `ViewModel`.
-- Como integrar `StateFlow` para criar UIs reativas e atualizáveis
+- How to use `ViewModel` to separate business logic from UI logic.
+- The importance of correctly managing component lifecycle using `ViewModel`.
+- How to integrate `StateFlow` to create reactive and updatable UIs.
 
 ## 📷 Screenshots
+<img src="images/screenshot.png" alt="Main Screen" width="400" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 
-![](images/screenshot.png)
+## 🤝 Contribution
 
-## 🤝 Contribuição
-
-Este é um projeto de aprendizado, mas ficarei feliz em receber feedback ou sugestões. Sinta-se à vontade para abrir issues ou enviar pull requests.
+This is a learning project, but I would be happy to receive feedback or suggestions. Feel free to open issues or submit pull requests.
